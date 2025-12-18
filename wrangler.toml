@@ -7,8 +7,4 @@ binding = "NEWSNOW_DB"
 database_name = "newsnow_db"
 database_id = "941a7889-7412-49e6-92df-f837a0ed93ba"
 
-G_CLIENT_ID="Iv23liKPCneFsWb98UPm"
-G_CLIENT_SECRET="aea8a5e6fed9ef5880bae3e41589682e3b931ac7"
-JWT_SECRET="aea8a5e6fed9ef5880bae3e41589682e3b931ac7"
-INIT_TABLE=true
-ENABLE_CACHE=true
+
